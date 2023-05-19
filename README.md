@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development and data science
 - 🌱 I’m currently learning new tools and working on personal projects
 - 💞️ I’m looking to collaborate on some open source project
-- 📫 How to reach me ... Am @coding0and1 on twitter
+- 📫 How to reach me ... Am @HSneezy on twitter
 
 <!---
 SneezyG/SneezyG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
