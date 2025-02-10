@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SneezyG
-- 👀 I’m interested in software development and business solutions
-- 🌱 I’m currently learning new tools and working on personal projects
+- 👀 I’m interested in designing seamless and scalable business solutions
+- 🌱 I’m open to connecting, reach out to me at ahmadgbolly97@gmail.com
 
 <!---
 SneezyG/SneezyG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
