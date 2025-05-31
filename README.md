@@ -36,11 +36,12 @@ A command-line tool built in Python to fetch real-time weather data from OpenWea
 
 ## 🛠️ Tech Stack
 
-- Languages: Python, JavaScript (Node.js)  
-- Frameworks: Django, Express, Fastify, Koa, React  
-- Databases: PostgreSQL, MongoDB  
+- Languages: Python, JavaScript  
+- Frameworks: Django, Nodejs, Flask, Fast-API, Serverless
+- Databases: PostgreSQL, MongoDB, MySQL
+- API: RestFul, GraphQL 
 - Tools: Docker, Celery, Redis, RabbitMQ, WebSockets  
-- Testing: pytest, Jest, Postman  
+- Testing: Pytest, Curl, Postman  
 - CI/CD & Monitoring: GitHub Actions, Prometheus, Grafana  
 
 ---
