@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Ismail Ahmad 👋
 
 I'm a Back-End Developer passionate about building scalable, efficient, and secure systems. I enjoy solving complex problems with clean, maintainable code, and have experience across Python, JavaScript, microservices, and full-stack development.
 
@@ -36,7 +36,7 @@ A command-line tool built in Python to fetch real-time weather data from OpenWea
 
 ## 🛠️ Tech Stack
 
-- Languages: Python, JavaScript (Node.js, React)  
+- Languages: Python, JavaScript (Node.js)  
 - Frameworks: Django, Express, Fastify, Koa, React  
 - Databases: PostgreSQL, MongoDB  
 - Tools: Docker, Celery, Redis, RabbitMQ, WebSockets  
