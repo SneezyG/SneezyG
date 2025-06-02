@@ -68,8 +68,8 @@ A command-line tool built in Python to fetch real-time weather data from OpenWea
 - Frameworks: Django, Nodejs, Flask, Fast-API, Serverless
 - Databases: PostgreSQL, MongoDB, MySQL
 - API: RestFul, GraphQL 
-- Tools: Docker, Celery, Redis, RabbitMQ, WebSockets  
-- Testing: Pytest, Curl, Postman  
+- Tools: Docker, AWS, Celery, Redis, RabbitMQ, WebSockets  
+- Testing: Pytest, Curl, Postman, jest 
 - CI/CD & Monitoring: GitHub Actions, Prometheus, Grafana  
 
 ---
