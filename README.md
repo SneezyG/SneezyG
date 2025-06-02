@@ -4,6 +4,19 @@ I'm a Back-End Developer passionate about building scalable, efficient, and secu
 
 ---
 
+## 🎯 Specializations
+
+- **Web Development**  
+  Building responsive, modern websites and applications using HTML, CSS, JavaScript, and modern frameworks.
+
+- **Back-End Engineering**  
+  Developing scalable server-side applications, APIs, and working with databases and cloud infrastructure.
+
+- **User Interface (UI) Design**  
+  Creating intuitive and accessible user experiences with a strong focus on usability, layout, and visual design principles.
+
+---
+
 ## 📜 Certifications
 
 | Certification | Issuing Organization |
