@@ -8,9 +8,14 @@ I'm a Back-End Developer passionate about building scalable, efficient, and secu
 
 | Certification | Issuing Organization |
 |---------------|-----------------------|
-| [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/your-badge-link) | Amazon Web Services (AWS) |
-| [Google Data Analytics Professional Certificate](https://www.coursera.org/verify/your-verification-link) | Coursera / Google |
-| [Certified Kubernetes Administrator (CKA)](https://www.cncf.io/certification/cka/) | CNCF |
+| [Service-Oriented Architecture](https://coursera.org/share/4f77aa414d44dcf8c666185b587c2cd2) | University of Alberta, Offered through Coursera |
+| [Application Development using Microservices and Serverless](https://coursera.org/share/0c289c2e336c683b8a6b3bdac2f1c637) | IBM, Offered through Coursera |
+| [Continuous Integration and Continuous Delivery(CI/CD)](https://coursera.org/verify/3PHHNRRQ2ZK5) | IBM, Offered through Coursera |
+| [Introduction to Containers w/ Docker, Kubernetes & OpenShift](https://coursera.org/verify/ZVPEFFNUXB6G) | IBM, Offered through Coursera |
+| [Machine Learning with Python](https://coursera.org/share/049f7d412470b928ffe8d9d7abbd6a27) | IBM, Offered through Coursera |
+| [Application Security and Monitoring](https://coursera.org/verify/ZP43JNUN85RF) | IBM, Offered through Coursera |
+| [Introduction to Test Driven Development (TDD)](https://coursera.org/verify/KBK39PDJNDR2) | IBM, Offered through Coursera |
+| [Hands-on Introduction to Linux Commands and Shell Scripting](https://coursera.org/verify/SQUCKN795LHA) | IBM, Offered through Coursera |
 
 ---
 
