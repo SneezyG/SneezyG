@@ -4,6 +4,16 @@ I'm a Back-End Developer passionate about building scalable, efficient, and secu
 
 ---
 
+## 📜 Certifications
+
+| Certification | Issuing Organization |
+|---------------|-----------------------|
+| [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/your-badge-link) | Amazon Web Services (AWS) |
+| [Google Data Analytics Professional Certificate](https://www.coursera.org/verify/your-verification-link) | Coursera / Google |
+| [Certified Kubernetes Administrator (CKA)](https://www.cncf.io/certification/cka/) | CNCF |
+
+---
+
 ## 🚀 Projects
 
 ### LeetCode Coding Challenges  
