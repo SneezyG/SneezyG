@@ -37,13 +37,13 @@ I'm a Back-End Developer passionate about building scalable, efficient, and secu
 ### LeetCode Coding Challenges  
 Solving algorithm and data structure problems using **Python**, **JavaScript** and **Java** to sharpen problem-solving and coding skills.
 
-### NeuraDocs -- A Rag AI-powered system
+### [NeuraDocs](https://sneezyg.github.io/NeuraDocs) -- A Rag AI-powered system
 An intelligent system that leverages Retrieval-Augmented Generation (RAG) to answers technical questions using your company's internal PDF documentation.
 
-### LogBeam -- A serverless IoT telemetry logger system 
+### [LogBeam](https://sneezyg.github.io/LogBeam) -- A serverless IoT telemetry logger system 
 A serverless logging system that enables IoT devices to send telemetry data via HTTP or MQTT, which is processed and stored efficiently in a columnar time-series database using AWS services.
 
-### Guardians -- Crisis Alert & Safety Management System  
+### [Guardians](https://sneezyg.github.io/pinger-page) -- Crisis Alert & Safety Management System  
 A full-stack, real-time alert system featuring:
 - Django REST API with JWT authentication  
 - React frontend with WebSockets  
@@ -51,13 +51,13 @@ A full-stack, real-time alert system featuring:
 - Zone-based location tracking and audit trails  
 - Scalable, secure architecture with Celery, Redis, and Docker  
 
-### Bookchain -- Microservices Library System  
+### [BookChain](https://sneezyg.github.io/micro-page) -- Microservices Library System  
 A distributed library management system built with Node.js (Express, Fastify, Koa), MongoDB, and RabbitMQ, showcasing:
 - Service isolation with dedicated databases  
 - Event-driven asynchronous communication  
 - Docker Compose deployment for microservices orchestration  
 
-### TokenGate -- A Crypto based Access Control System
+### [TokenGate](https://sneezyg.github.io/TokenGate) -- A Crypto based Access Control System
 A back-end service that checks if a given Ethereum wallet holds a specific ERC-20 token, enabling token-based access control for apps, websites, and services.
 
 ### File-Based Note Management System
