@@ -21,7 +21,7 @@ I'm a Back-End Developer passionate about building scalable, efficient, and secu
 
 | Certification | Issuing Organization |
 |---------------|-----------------------|
-| [Service-Oriented Architecture](https://coursera.org/share/4f77aa414d44dcf8c666185b587c2cd2) | University of Alberta, Offered through Coursera |
+| [Service-Oriented Architecture](https://coursera.org/share/4f77aa414d44dcf8c666185b587c2cd2) | Alberta, Offered through Coursera |
 | [Application Development using Microservices and Serverless](https://coursera.org/share/0c289c2e336c683b8a6b3bdac2f1c637) | IBM, Offered through Coursera |
 | [Continuous Integration and Continuous Delivery(CI/CD)](https://coursera.org/verify/3PHHNRRQ2ZK5) | IBM, Offered through Coursera |
 | [Introduction to Containers w/ Docker, Kubernetes & OpenShift](https://coursera.org/verify/ZVPEFFNUXB6G) | IBM, Offered through Coursera |
