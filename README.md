@@ -4,12 +4,12 @@ I'm a Software Developer passionate about building scalable, efficient, and secu
 
 ### 🛠️ Part-time Side Hustle – Freelance/Volunteer BaaS Solutions
 
-During my free time, I offer **[freelance and volunteer Backend-as-a-Service (BaaS) solutions](https://baas.tbcsolutions.pro/)** for individuals, startups, and non-profits.
+During my free time, I offer **freelance and volunteer [Backend-as-a-Service (BaaS) solutions](https://baas.tbcsolutions.pro/)** for individuals, startups, and non-profits.
 
 #### 🔹 Why I Do It
 I enjoy solving real-world problems and giving back to the community. Whether you're bootstrapping a product or need backend support for a hackathon, I'm happy to help.
 
-📩 **Reach out** if you need backend help — paid or volunteer. Let’s build something amazing!
+📩 Reach out if you need backend help — paid or volunteer. Let’s build something amazing!
 
 ---
 
