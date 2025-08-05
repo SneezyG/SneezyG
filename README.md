@@ -2,7 +2,7 @@
 
 I'm a Software Developer passionate about building scalable, efficient, and secure systems. I enjoy solving complex problems with clean, maintainable code, and have experience across Python, Java, JavaScript, PHP, microservices, and full-stack development.
 
-## 🛠️ Part-time Side Hustle – Freelance/Volunteer [BaaS Solutions](https://baas.tbcsolutions.pro/)
+### 🛠️ Part-time Side Hustle – Freelance/Volunteer [BaaS Solutions](https://baas.tbcsolutions.pro/)
 
 During my free time, I offer **freelance and volunteer Backend-as-a-Service (BaaS) solutions** for individuals, startups, and non-profits.
 
