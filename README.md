@@ -1,19 +1,20 @@
 # Hi, I'm Ismail Ahmad 👋
 
-I'm a Back-End Developer passionate about building scalable, efficient, and secure systems. I enjoy solving complex problems with clean, maintainable code, and have experience across Python, JavaScript, Java, microservices, and full-stack development.
+I'm a Software Developer passionate about building scalable, efficient, and secure systems. I enjoy solving complex problems with clean, maintainable code, and have experience across Python, Java, JavaScript, PHP, microservices, and full-stack development.
 
 ---
 
 ## 🎯 Specializations
 
-- **Web Development**  
-  Building responsive, modern websites and applications using HTML, CSS, JavaScript, and modern frameworks.
-
 - **Back-End Engineering**  
   Developing scalable server-side applications, APIs, and working with databases and cloud infrastructure.
 
+- **Web Development**  
+  Building responsive, modern websites and applications using HTML, CSS, JavaScript, and modern frameworks.
+
 - **User Interface (UI) Design**  
   Creating intuitive and accessible user experiences with a strong focus on usability, layout, and visual design principles.
+  [Explore one of my design](https://bit.ly/3GoXQrP)
 
 ---
 
@@ -67,8 +68,8 @@ Implemented common design patterns in a file-based note app, demonstrating princ
 
 ## 🛠️ Tech Stack
 
-- Languages: Python, JavaScript, Java 
-- Frameworks: Django, Nodejs, Flask, Fast-API, Serverless
+- Languages: Python, Java, JavaScript, PHP
+- Frameworks: Django, Nodejs, Springboot, Flask, Fast-API, Laravel, Serverless
 - Databases: PostgreSQL, MongoDB, MySQL
 - API: RestFul, GraphQL 
 - Tools: Docker, AWS, Celery, Redis, RabbitMQ, WebSockets  
