@@ -2,6 +2,15 @@
 
 I'm a Software Developer passionate about building scalable, efficient, and secure systems. I enjoy solving complex problems with clean, maintainable code, and have experience across Python, Java, JavaScript, PHP, microservices, and full-stack development.
 
+## 🛠️ Part-time Side Hustle – Freelance/Volunteer [BaaS Solutions](https://baas.tbcsolutions.pro/)
+
+During my free time, I offer **freelance and volunteer Backend-as-a-Service (BaaS) solutions** for individuals, startups, and non-profits.
+
+### 🔹 Why I Do It
+I enjoy solving real-world problems and giving back to the community. Whether you're bootstrapping a product or need backend support for a hackathon, I'm happy to help.
+
+📩 **Reach out** if you need backend help — paid or volunteer. Let’s build something amazing!
+
 ---
 
 ## 🎯 Specializations
@@ -38,7 +47,7 @@ I'm a Software Developer passionate about building scalable, efficient, and secu
 ### LeetCode Coding Challenges  
 Solving algorithm and data structure problems using **Python**, **JavaScript** and **Java** to sharpen problem-solving and coding skills.
 
-### [<u>NeuraDocs</u>](https://sneezyg.github.io/NeuraDocs) -- A Rag AI-powered system
+### [NeuraDocs](https://sneezyg.github.io/NeuraDocs) -- A Rag AI-powered system
 An intelligent system that leverages Retrieval-Augmented Generation (RAG) to answers technical questions using your company's internal PDF documentation.
 
 ### [LogBeam](https://sneezyg.github.io/LogBeam) -- A serverless IoT telemetry logger system 
