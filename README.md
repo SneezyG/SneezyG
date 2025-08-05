@@ -38,7 +38,7 @@ I'm a Software Developer passionate about building scalable, efficient, and secu
 ### LeetCode Coding Challenges  
 Solving algorithm and data structure problems using **Python**, **JavaScript** and **Java** to sharpen problem-solving and coding skills.
 
-### [NeuraDocs](https://sneezyg.github.io/NeuraDocs) -- A Rag AI-powered system
+### [<u>NeuraDocs</u>](https://sneezyg.github.io/NeuraDocs) -- A Rag AI-powered system
 An intelligent system that leverages Retrieval-Augmented Generation (RAG) to answers technical questions using your company's internal PDF documentation.
 
 ### [LogBeam](https://sneezyg.github.io/LogBeam) -- A serverless IoT telemetry logger system 
