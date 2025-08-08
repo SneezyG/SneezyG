@@ -42,6 +42,9 @@ During my free time, I offer freelance and volunteer **[Backend-as-a-Service (Ba
 ### LeetCode Coding Challenges  
 Solving algorithm and data structure problems using **Python**, **JavaScript** and **Java** to sharpen problem-solving and coding skills.
 
+### System Design Challenges
+Exploring real-world system design problems from [SystemDesign.io](https://systemdesign.io/) to strengthen architectural thinking, scalability planning, and trade-off analysis skills.
+
 ### [NeuraDocs](https://sneezyg.github.io/NeuraDocs) -- A Rag AI-powered system
 An intelligent system that leverages Retrieval-Augmented Generation (RAG) to answers technical questions using your company's internal PDF documentation.
 
