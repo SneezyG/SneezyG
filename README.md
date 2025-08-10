@@ -68,6 +68,9 @@ A distributed library management system built with Node.js (Express, Fastify, Ko
 ### [TokenGate](https://sneezyg.github.io/TokenGate) -- A Crypto based Access Control System
 A back-end service that checks if a given Ethereum wallet holds a specific ERC-20 token, enabling token-based access control for apps, websites, and services.
 
+### [PixelSmith](https://github.com/sneezyg/PixelSmith) -- Multithreading in back-end system with Java
+A Spring Boot service that process images in parallel using Java multithreading magic.
+
 ### File-Based Note Management System
 Implemented common design patterns in a file-based note app, demonstrating principles of clean code and modular architecture.
 
