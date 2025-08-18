@@ -15,7 +15,7 @@ During my free time, I offer freelance and volunteer **[Backend-as-a-Service (Ba
 
 - **Project Management**
   Driving projects from conception to delivery with a focus on planning, collaboration, and execution.
-  [See my GOOGLE certification](https://bit.ly/3GoXQrP)
+  [See my google certification](https://coursera.org/verify/MXAPYE8L64CV)
 
 - **Web Development**  
   Building responsive, modern websites and applications using HTML, CSS, JavaScript, and modern frameworks.
