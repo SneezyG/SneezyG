@@ -13,6 +13,10 @@ During my free time, I offer freelance and volunteer **[Backend-as-a-Service (Ba
 - **Back-End Engineering**  
   Developing scalable server-side applications, APIs, and working with databases and cloud infrastructure.
 
+- **Project Management**
+  Driving projects from conception to delivery with a focus on planning, collaboration, and execution.
+  [See my GOOGLE certification](https://bit.ly/3GoXQrP)
+
 - **Web Development**  
   Building responsive, modern websites and applications using HTML, CSS, JavaScript, and modern frameworks.
 
