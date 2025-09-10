@@ -4,7 +4,7 @@ I'm a Software Developer passionate about building scalable, efficient, and secu
 
 #### 🛠️ Volunteering BaaS Solutions
 
-During my free time, I offer volunteer **Backend-as-a-Service (BaaS) solutions** for individuals, startups, and non-profits. I enjoy solving real-world problems and giving back to the community. Whether you're bootstrapping a product or need backend support for a hackathon, I'm happy to help.
+During my free time, I offer volunteer **Backend-as-a-Service solutions** for individuals, startups, and non-profits. I enjoy solving real-world problems and giving back to the community. Whether you're bootstrapping a product or need backend support for a hackathon, I'm happy to help.
 
 ---
 
