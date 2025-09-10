@@ -15,8 +15,8 @@ During my free time, I offer volunteer **Backend-as-a-Service (BaaS) solutions**
 
 - **Back-End Engineering**  
   Developing scalable server-side applications, APIs, and working with databases and cloud infrastructure.
-  
-- **Project Management**
+
+- **Project Management**  
   Driving projects from conception to delivery with a focus on planning, collaboration, and execution.
 
 - **User Interface (UI) Design**  
