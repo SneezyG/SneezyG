@@ -13,11 +13,11 @@ During my free time, I offer volunteer **Backend-as-a-Service (BaaS) solutions**
 - **Full-Stack Development**  
   Developing responsive web applications using modern front-end frameworks, while integrating robust back-end technologies.
 
-- **Back-End Engineering**  
+- **Back-End Engineering**
   Developing scalable server-side applications, APIs, and working with databases and cloud infrastructure.
 
 - **Project Management**
-   Driving projects from conception to delivery with a focus on planning, collaboration, and execution.
+  Driving projects from conception to delivery with a focus on planning, collaboration, and execution.
 
 - **User Interface (UI) Design**  
   Creating intuitive and accessible user experiences with a strong focus on usability, layout, and visual design principles.
