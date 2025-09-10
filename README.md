@@ -2,23 +2,22 @@
 
 I'm a Software Developer passionate about building scalable, efficient, and secure systems. I enjoy solving complex problems with clean, maintainable code, and have experience across Python, Java, JavaScript, PHP, microservices, and full-stack development.
 
-#### 🛠️ Part-time Side Hustle – Freelance/Volunteer BaaS Solutions
+#### 🛠️ Volunteering BaaS Solutions
 
-During my free time, I offer freelance and volunteer **[Backend-as-a-Service (BaaS) solutions](https://baas.tbcsolutions.pro/)** for individuals, startups, and non-profits. I enjoy solving real-world problems and giving back to the community. Whether you're bootstrapping a product or need backend support for a hackathon, I'm happy to help.
+During my free time, I offer volunteer **Backend-as-a-Service (BaaS) solutions** for individuals, startups, and non-profits. I enjoy solving real-world problems and giving back to the community. Whether you're bootstrapping a product or need backend support for a hackathon, I'm happy to help.
 
 ---
 
 ## 🎯 Specializations
+
+- **Full-Stack Development**  
+  Developing responsive web applications using modern front-end frameworks, while integrating robust back-end technologies.
 
 - **Back-End Engineering**  
   Developing scalable server-side applications, APIs, and working with databases and cloud infrastructure.
 
 - **Project Management**
   Driving projects from conception to delivery with a focus on planning, collaboration, and execution.
-  [See my google certification](https://coursera.org/verify/MXAPYE8L64CV)
-
-- **Web Development**  
-  Building responsive, modern websites and applications using HTML, CSS, JavaScript, and modern frameworks.
 
 - **User Interface (UI) Design**  
   Creating intuitive and accessible user experiences with a strong focus on usability, layout, and visual design principles.
@@ -33,6 +32,7 @@ During my free time, I offer freelance and volunteer **[Backend-as-a-Service (Ba
 | [Service-Oriented Architecture](https://coursera.org/share/4f77aa414d44dcf8c666185b587c2cd2) | ALB, Offered through Coursera |
 | [Application Development using Microservices and Serverless](https://coursera.org/share/0c289c2e336c683b8a6b3bdac2f1c637) | IBM, Offered through Coursera |
 | [Continuous Integration and Continuous Delivery(CI/CD)](https://coursera.org/verify/3PHHNRRQ2ZK5) | IBM, Offered through Coursera |
+| [Foundations of Project Management](https://coursera.org/verify/MXAPYE8L64CV) | GGL, Offered through Coursera |
 | [Introduction to Containers w/ Docker, Kubernetes & OpenShift](https://coursera.org/verify/ZVPEFFNUXB6G) | IBM, Offered through Coursera |
 | [Machine Learning with Python](https://coursera.org/share/049f7d412470b928ffe8d9d7abbd6a27) | IBM, Offered through Coursera |
 | [Application Security and Monitoring](https://coursera.org/verify/ZP43JNUN85RF) | IBM, Offered through Coursera |
