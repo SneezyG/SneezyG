@@ -1,8 +1,7 @@
 # Hi, I'm Ismail Ahmad 👋
 
-I'm a Software Developer passionate about building scalable, efficient, and secure systems. I enjoy solving complex problems with clean, maintainable code, and have experience across Python, Java, JavaScript, PHP, microservices, and full-stack development.
+I'm a Software Developer passionate about building scalable, efficient, and secure systems. I enjoy solving complex problems with clean, maintainable code, and have experience across **Python, Java, JavaScript, PHP, microservices, and full-stack development**. In my free time, I contribute **volunteer software solutions** to help communities and organizations. I enjoy solving real-world problems through technology while giving back to society.
 
-**Volunteering Software Solutions 🛠️** During my free time, I offer volunteer software solutions I enjoy solving real-world problems and giving back to the community. 
 ---
 
 ## 🎯 Specializations
