@@ -2,10 +2,7 @@
 
 I'm a Software Developer passionate about building scalable, efficient, and secure systems. I enjoy solving complex problems with clean, maintainable code, and have experience across Python, Java, JavaScript, PHP, microservices, and full-stack development.
 
-#### 🛠️ Volunteering Software Solutions
-
-During my free time, I offer volunteer software solutions for individuals, startups, and non-profits. I enjoy solving real-world problems and giving back to the community. Whether you're bootstrapping a product or need backend support for a hackathon, I'm happy to help.
-
+**Volunteering Software Solutions 🛠️** During my free time, I offer volunteer software solutions I enjoy solving real-world problems and giving back to the community. 
 ---
 
 ## 🎯 Specializations
@@ -15,6 +12,10 @@ During my free time, I offer volunteer software solutions for individuals, start
 
 - **Back-End Engineering**  
   Developing scalable server-side applications, APIs, and working with databases and cloud infrastructure.
+
+---
+
+## 🎯 Complementary Skills
 
 - **Project Management**  
   Driving projects from conception to delivery with a focus on planning, collaboration, and execution.
