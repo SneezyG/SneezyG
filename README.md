@@ -71,7 +71,7 @@ Exploring real-world system design problems from [SystemDesign.io](https://syste
 - Communication --- Event-driven via RabbitMQ (swappable with Kafka/NATS)
 - Deployment --- Docker + Docker Compose
 
-### [QuillTask](https://github.com/sneezyg/QuillTask) -- A system where your tasks & notes live in harmony, built with PHP(Laravel)
+### [QuillTask](https://github.com/sneezyg/QuillTask) -- A system where tasks & notes live in harmony, built with PHP(Laravel)
 - Organized Workflow --- Keep your tasks and notes in sync, all in one place.
 - Task Management --- Create, update, and delete tasks with ease.
 - Notes Integration --- Attach notes to tasks or keep them standalone.
