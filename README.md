@@ -49,10 +49,10 @@ Solving algorithm and data structure problems using **Python**, **JavaScript** a
 ### System Design Challenges
 Exploring real-world system design problems from [SystemDesign.io](https://systemdesign.io/) to strengthen architectural thinking, scalability planning, and trade-off analysis skills.
 
-### [NeuraDocs](https://sneezyg.github.io/NeuraDocs) -- A Rag AI-powered system
+### [NeuraDocs](https://github.com/sneezyg/NeuraDocs) -- A Rag AI-powered system
 An intelligent system that leverages Retrieval-Augmented Generation (RAG) to answers technical questions using your company's internal PDF documentation.
 
-### [LogBeam](https://sneezyg.github.io/LogBeam) -- A serverless IoT telemetry logger system 
+### [LogBeam](https://github.com/sneezyg/LogBeam) -- A serverless IoT telemetry logger system 
 A serverless logging system that enables IoT devices to send telemetry data via HTTP or MQTT, which is processed and stored efficiently in a columnar time-series database using AWS services.
 
 ### [Guardians](https://sneezyg.github.io/pinger-page) -- Crisis Alert & Safety Management System  
@@ -69,7 +69,7 @@ A distributed library management system built with Node.js (Express, Fastify, Ko
 - Event-driven asynchronous communication  
 - Docker Compose deployment for microservices orchestration  
 
-### [TokenGate](https://sneezyg.github.io/TokenGate) -- A Crypto based Access Control System
+### [TokenGate](https://github.com/sneezyg/TokenGate) -- A Crypto based Access Control System
 A back-end service that checks if a given Ethereum wallet holds a specific ERC-20 token, enabling token-based access control for apps, websites, and services.
 
 ### [PixelSmith](https://github.com/sneezyg/PixelSmith) -- Multithreading in back-end system with Java
