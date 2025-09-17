@@ -80,10 +80,10 @@ Exploring real-world system design problems from [SystemDesign.io](https://syste
 ### [NeuraDocs](https://github.com/sneezyg/NeuraDocs) -- A Rag AI-powered system with LangChain
 An intelligent system that leverages Retrieval-Augmented Generation (RAG) to answers technical questions using your company's internal PDF documentation.
 
-### [TokenGate](https://github.com/sneezyg/TokenGate) -- A Crypto based Access Control System
+### [TokenGate](https://github.com/sneezyg/TokenGate) -- A Crypto based Access Control System with Ether.js
 A back-end service that checks if a given Ethereum wallet holds a specific ERC-20 token, enabling token-based access control for apps, websites, and services.
 
-### [LogBeam](https://github.com/sneezyg/LogBeam) -- A serverless IoT telemetry logger system 
+### [LogBeam](https://github.com/sneezyg/LogBeam) -- A serverless IoT telemetry logger system  with AWS
 A serverless logging system that enables IoT devices to send telemetry data via HTTP or MQTT, which is processed and stored efficiently in a columnar time-series database using AWS services.
 
 ### [PixelSmith](https://github.com/sneezyg/PixelSmith) -- A Multithreading back-end system with Java
