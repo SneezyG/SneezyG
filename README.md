@@ -44,38 +44,52 @@ I'm a Software Developer passionate about building scalable, efficient, and secu
 ## 🚀 Projects
 
 ### LeetCode Coding Challenges  
-Solving algorithm and data structure problems using **Python**, **JavaScript** and **Java** to sharpen problem-solving and coding skills.
+Solving algorithm and data structure problems using **Python**, **JavaScript**. **Java** and **PHP** to sharpen problem-solving and coding skills.
 
 ### System Design Challenges
 Exploring real-world system design problems from [SystemDesign.io](https://systemdesign.io/) to strengthen architectural thinking, scalability planning, and trade-off analysis skills.
 
-### [NeuraDocs](https://github.com/sneezyg/NeuraDocs) -- A Rag AI-powered system
+### [Guardians](https://sneezyg.github.io/pinger-page) -- A Crisis Alert & Safety Management System, built with python(Django)
+- Real-Time Alerts --- WebSocket-based instant updates.
+- Multi-Channel Notifications --- Web, Email, SMS.
+- Zone-Based Location Tracking --- Live tracking with predefined geo-boundaries.
+- Audit Trail --- Tracks all alert activities for transparency.
+- Automatic Escalation --- Time-based escalation logic.
+- Embedded Safety Tips --- In-app safety recommendations.
+- Admin Interface --- Manage alerts, users, roles, and safety tips.
+
+### [MarketStream](https://github.com/sneezyg/marketStream) -- A service that streams live market data, built with Java(Springboot)
+- Real-Time Data Streaming --- Uses WebSockets to stream live stock prices.
+- Custom Alerts --- Users can define alerts with conditions (GREATER_THAN / LESS_THAN).
+- Email Notifications --- Sends email alerts instantly when conditions are triggered.
+- Extensible Design --- Can be adapted to multiple financial data providers.
+
+### [BookChain](https://sneezyg.github.io/micro-page) -- A Microservices Library System, built with Javascript(NodeJS)
+- Style --- Microservices with Service-Oriented Architecture (SOA)
+- Services --- 3 independently deployed services
+- Database --- Separate MongoDB instances per service
+- Communication --- Event-driven via RabbitMQ (swappable with Kafka/NATS)
+- Deployment --- Docker + Docker Compose
+
+### [QuillTask](https://github.com/sneezyg/QuillTask) -- A system where your tasks and notes live in harmony, built with PHP(Laravel)
+- Task Management --- Create, update, and delete tasks with ease.
+- Notes Integration --- Attach notes to tasks or keep them standalone.
+- REST API --- Built with Laravel, designed for clean integration with any frontend.
+- Organized Workflow --- Keep your tasks and notes in sync, all in one place.
+
+### [NeuraDocs](https://github.com/sneezyg/NeuraDocs) -- A Rag AI-powered system with LangChain
 An intelligent system that leverages Retrieval-Augmented Generation (RAG) to answers technical questions using your company's internal PDF documentation.
-
-### [LogBeam](https://github.com/sneezyg/LogBeam) -- A serverless IoT telemetry logger system 
-A serverless logging system that enables IoT devices to send telemetry data via HTTP or MQTT, which is processed and stored efficiently in a columnar time-series database using AWS services.
-
-### [Guardians](https://sneezyg.github.io/pinger-page) -- Crisis Alert & Safety Management System  
-A full-stack, real-time alert system featuring:
-- Django REST API with JWT authentication  
-- React frontend with WebSockets  
-- Multi-channel notifications (Web, Email, SMS)  
-- Zone-based location tracking and audit trails  
-- Scalable, secure architecture with Celery, Redis, and Docker  
-
-### [BookChain](https://sneezyg.github.io/micro-page) -- Microservices Library System  
-A distributed library management system built with Node.js (Express, Fastify, Koa), MongoDB, and RabbitMQ, showcasing:
-- Service isolation with dedicated databases  
-- Event-driven asynchronous communication  
-- Docker Compose deployment for microservices orchestration  
 
 ### [TokenGate](https://github.com/sneezyg/TokenGate) -- A Crypto based Access Control System
 A back-end service that checks if a given Ethereum wallet holds a specific ERC-20 token, enabling token-based access control for apps, websites, and services.
 
-### [PixelSmith](https://github.com/sneezyg/PixelSmith) -- Multithreading in back-end system with Java
+### [LogBeam](https://github.com/sneezyg/LogBeam) -- A serverless IoT telemetry logger system 
+A serverless logging system that enables IoT devices to send telemetry data via HTTP or MQTT, which is processed and stored efficiently in a columnar time-series database using AWS services.
+
+### [PixelSmith](https://github.com/sneezyg/PixelSmith) -- A Multithreading back-end system with Java
 A Spring Boot service that process images in parallel using Java multithreading magic.
 
-### [Pattern](https://github.com/SneezyG/pattern) -- File-Based Note Management System
+### [Pattern](https://github.com/SneezyG/pattern) -- A File-Based Note Management System
 Implemented common design patterns in a file-based note app, demonstrating principles of clean code and modular architecture.
 
 ---
