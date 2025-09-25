@@ -1,6 +1,6 @@
 # Hi, I'm Ismail Ahmad 👋
 
-I'm a Software Developer passionate about building scalable, efficient, and secure systems. I have experience across Python, Java, JavaScript, PHP, microservices, and full-stack development. In my free time, I contribute **volunteer software solutions** to help communities and organizations. I enjoy solving real-world problems through technology while giving back to society.
+I'm a Software Developer passionate about building scalable, efficient, and secure systems. I have experience across Python, Java, JavaScript, GO, PHP, microservices, and full-stack development. In my free time, I contribute **volunteer software solutions** to help communities and organizations. I enjoy solving real-world problems through technology while giving back to society.
 
 ---
 
@@ -16,6 +16,9 @@ I'm a Software Developer passionate about building scalable, efficient, and secu
 
 ## 🎯 Complementary Skills
 
+- **Artificial Intelligence**  
+  Exploring and integrating machine learning and AI-powered tools to build smarter, data-driven solutions.
+  
 - **Project Management**  
   Driving projects from conception to delivery with a focus on planning, collaboration, and execution.
 
@@ -41,10 +44,40 @@ I'm a Software Developer passionate about building scalable, efficient, and secu
 
 ---
 
+## 🛠️ Tech Stack
+
+### Languages
+- Python, Java, Go, JavaScript, TypeScript, PHP, SQL
+
+### Frameworks & Libraries
+- **Web & Backend:** Django, Spring Boot, Laravel, Node.js, FastAPI, Gin
+- **Frontend:** React, Svelte, Vite, Tailwindcss  
+- **Serverless & Microservices:** Serverless Framework, AWS Lambda, Google Cloud Functions
+
+### Databases
+- **Relational:** PostgreSQL, MySQL, SQLite, MariaDB, Oracle DB  
+- **NoSQL:** MongoDB, Redis, Cassandra, DynamoDB, Neo4j, Elasticsearch, Pinecone
+
+### APIs
+- RESTful APIs, GraphQL, gRPC, Webhooks, WebSockets
+
+### Tools & Platforms
+- **Containerization & Virtualization:** Docker, Docker Compose, Kubernetes, Vagrant
+- **Cloud & Deployment:** AWS, Heroku, Netlify, DigitalOcean, GCP
+- **Task Queues & Messaging:** Celery, RabbitMQ, Redis Pub/Sub, Kafka, MQTT
+
+### Testing & Debugging
+- Unittest, Curl, Postman, TDD, Selenium, Playwright
+
+### CI/CD & Monitoring
+- GitHub Actions, GitLab CI/CD, Prometheus, Grafana, ELK Stack
+
+---
+
 ## 🚀 Projects
 
 ### LeetCode Coding Challenges  
-Solving algorithm and data structure problems using **Python**, **JavaScript**. **Java** and **PHP** to sharpen problem-solving and coding skills.
+Solving algorithm and data structure problems using **Python**, **JavaScript**, **Java**, **GO** and **PHP** to sharpen problem-solving and coding skills.
 
 ### System Design Challenges
 Exploring real-world system design problems from [SystemDesign.io](https://systemdesign.io/) to strengthen architectural thinking, scalability planning, and trade-off analysis skills.
@@ -91,18 +124,6 @@ A Spring Boot service that process images in parallel using Java multithreading 
 
 ### [Pattern](https://github.com/SneezyG/pattern) -- A File-Based Note Management System
 Implemented common design patterns in a file-based note app, demonstrating principles of clean code and modular architecture.
-
----
-
-## 🛠️ Tech Stack
-
-- Languages: Python, Java, JavaScript, PHP
-- Frameworks: Django, Nodejs, Springboot, Flask, Fast-API, Laravel, Serverless
-- Databases: PostgreSQL, MongoDB, MySQL
-- API: RestFul, GraphQL 
-- Tools: Docker, AWS, Celery, Redis, RabbitMQ, WebSockets  
-- Testing: Pytest, Curl, Postman, Jest 
-- CI/CD & Monitoring: GitHub Actions, Prometheus, Grafana  
 
 ---
 
