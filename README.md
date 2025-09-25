@@ -50,21 +50,21 @@ I'm a Software Developer passionate about building scalable, efficient, and secu
 - Python, Java, Go, JavaScript, TypeScript, PHP, SQL
 
 #### Frameworks & Libraries
-- **Web & Backend:** Django, Spring Boot, Laravel, Node.js, FastAPI, Gin
-- **Frontend:** React, Svelte, Vite, Tailwindcss  
-- **Serverless & Microservices:** Serverless Framework, AWS Lambda, Google Cloud Functions
+- Web & Backend:-- Django, Spring Boot, Laravel, Node.js, FastAPI, Gin
+- Frontend:-- React, Svelte, Vite, Tailwindcss  
+- Serverless & Microservices:-- Serverless Framework, AWS Lambda, Google Cloud Functions
 
 #### Databases
-- **Relational:** PostgreSQL, MySQL, SQLite, MariaDB, Oracle DB  
-- **NoSQL:** MongoDB, Redis, Cassandra, DynamoDB, Neo4j, Elasticsearch, Pinecone
+- Relational:-- PostgreSQL, MySQL, SQLite, MariaDB, Oracle DB  
+- NoSQL:-- MongoDB, Redis, Cassandra, DynamoDB, Neo4j, Elasticsearch, Pinecone
 
 #### APIs
 - RESTful APIs, GraphQL, gRPC, Webhooks, WebSockets
 
 #### Tools & Platforms
-- **Containerization & Virtualization:** Docker, Docker Compose, Kubernetes, Vagrant
-- **Cloud & Deployment:** AWS, Heroku, Netlify, DigitalOcean, GCP
-- **Task Queues & Messaging:** Celery, RabbitMQ, Redis Pub/Sub, Kafka, MQTT
+- Containerization & Virtualization:-- Docker, Docker Compose, Kubernetes, Vagrant
+- Cloud & Deployment:-- AWS, Heroku, Netlify, DigitalOcean, GCP
+- Task Queues & Messaging:-- Celery, RabbitMQ, Redis Pub/Sub, Kafka, MQTT
 
 #### Testing & Debugging
 - Unittest, Curl, Postman, TDD, Selenium, Playwright
