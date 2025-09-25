@@ -14,7 +14,7 @@ I'm a Software Developer passionate about building scalable, efficient, and secu
 
 ---
 
-## 🎯 Complementary Skills
+## 💡 Complementary Skills
 
 - **Artificial Intelligence**  
   Exploring and integrating machine learning and AI-powered tools to build smarter, data-driven solutions.
