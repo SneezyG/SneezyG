@@ -46,30 +46,30 @@ I'm a Software Developer passionate about building scalable, efficient, and secu
 
 ## 🛠️ Tech Stack
 
-- #### Languages
+- ### Languages
   - Python, Java, Go, JavaScript, TypeScript, PHP, SQL
 
-- #### Frameworks & Libraries
+- ### Frameworks & Libraries
   - `Web & Backend` --- Django, Spring Boot, Laravel, Node.js, FastAPI, Gin
   - `Frontend` --- React, Svelte, Vite, Tailwindcss  
   - `Serverless` & Microservices --- Serverless Framework, AWS Lambda, Google Cloud Functions
 
-- #### Databases
+- ### Databases
   - `Relational` --- PostgreSQL, MySQL, SQLite, MariaDB, Oracle DB  
   - `NoSQL` --- MongoDB, Redis, Cassandra, DynamoDB, Neo4j, Elasticsearch, Pinecone
 
-- #### APIs
+- ### APIs
   - RESTful APIs, GraphQL, gRPC, Webhooks, WebSockets
 
-- #### Tools & Platforms
+- ### Tools & Platforms
   - `Containerization & Virtualization` --- Docker, Docker Compose, Kubernetes, Vagrant
   - `Cloud & Deployment` --- AWS, Heroku, Netlify, DigitalOcean, GCP
   - `Task Queues & Messaging` --- Celery, RabbitMQ, Redis Pub/Sub, Kafka, MQTT
 
-- #### Testing & Debugging
+- ### Testing & Debugging
   - Unittest, Curl, Postman, TDD, Selenium, Playwright
 
-- #### CI/CD & Monitoring
+- ### CI/CD & Monitoring
   - GitHub Actions, GitLab CI/CD, Prometheus, Grafana, ELK Stack
 
 ---
