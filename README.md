@@ -6,11 +6,11 @@ I'm a Software Developer passionate about building scalable, efficient, and secu
 
 ## 🎯 Specializations
 
-- **Full-Stack Development**  
-  Developing responsive web applications using modern front-end frameworks, while integrating robust back-end technologies.
-
 - **Back-End Engineering**  
   Developing scalable server-side applications, APIs, and working with databases and cloud infrastructure.
+  
+- **Full-Stack Development**  
+  Developing responsive web applications using modern front-end frameworks, while integrating robust back-end technologies.
 
 ---
 
