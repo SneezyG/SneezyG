@@ -12,6 +12,9 @@ I'm a Software Developer passionate about building scalable, efficient, and secu
 - **Full-Stack Development**  
   Developing responsive web applications using modern front-end frameworks, while integrating robust back-end technologies.
 
+- **E-Commerce Solutions**  
+  Delivering scalable e-commerce solutions that optimize user experience, streamline transactions, and drive business growth.
+
 ---
 
 ## 💡 Complementary Skills
@@ -51,7 +54,8 @@ I'm a Software Developer passionate about building scalable, efficient, and secu
 
 - ### Frameworks & Libraries
   - `Web & Backend` --- Django, Spring Boot, Laravel, Node.js, FastAPI, Gin
-  - `Frontend` --- React, Svelte, Vite, Tailwindcss  
+  - `Frontend` --- React, Svelte, Vite, Tailwindcss
+  - `E-Commerce` --- Shopify, WooCommerce, BigCommerce
   - `Serverless & Microservices` --- Serverless Framework, AWS Lambda, Google Cloud Functions
 
 - ### Databases
