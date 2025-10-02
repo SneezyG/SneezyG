@@ -87,6 +87,7 @@ Solving algorithm and data structure problems using **Python**, **JavaScript**, 
 Exploring real-world system design problems from [SystemDesign.io](https://systemdesign.io/) to strengthen architectural thinking, scalability planning, and trade-off analysis skills.
 
 ### [Pattern](https://github.com/SneezyG/candles) -- A responsive frontend web-app for tracking stock performance.
+A responsive stock dashboard web-app that track market behavior, portfolios performance, and monitor favorite stocks. Featuring real-time tickers, interactive charts, and customizable UI with dark/light mode
 
 ### [Guardians](https://sneezyg.github.io/pinger-page) -- A Crisis Alert & Safety Management System, built with python(Django)
 - Real-Time Alerts --- WebSocket-based instant updates.
