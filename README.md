@@ -86,6 +86,11 @@ Solving algorithm and data structure problems using **Python**, **JavaScript**, 
 ### System Design Challenges
 Exploring real-world system design problems from [SystemDesign.io](https://systemdesign.io/) to strengthen architectural thinking, scalability planning, and trade-off analysis skills.
 
+### [Pattern](https://github.com/SneezyG/candles)
+A responsive frontend web-app for tracking stock performance.
+
+A responsive frontend web-app for tracking stock performance.
+
 ### [Guardians](https://sneezyg.github.io/pinger-page) -- A Crisis Alert & Safety Management System, built with python(Django)
 - Real-Time Alerts --- WebSocket-based instant updates.
 - Multi-Channel Notifications --- Web, Email, SMS.
