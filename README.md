@@ -50,10 +50,10 @@ I'm a Software Developer passionate about building scalable, efficient, and secu
 ## 🛠️ Tech Stack
 
 - ### Languages
-  - Python, Java, Go, JavaScript, TypeScript, PHP, SQL
+  - Python, Java, Go, JavaScript, TypeScript, PHP, C#
 
 - ### Frameworks & Libraries
-  - `Web & Backend` --- Django, Spring Boot, Laravel, Node.js, FastAPI, Gin
+  - `Web & Backend` --- Django, Spring Boot, Laravel, Node.js, FastAPI, Gin, .Net
   - `Frontend` --- React, Svelte, Vite, Tailwindcss
   - `E-Commerce` --- Shopify, WooCommerce, BigCommerce
   - `Serverless & Microservices` --- Serverless Framework, AWS Lambda, Google Cloud Functions
