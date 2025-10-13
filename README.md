@@ -89,6 +89,9 @@ Exploring real-world system design problems from [SystemDesign.io](https://syste
 ### [Candles](https://github.com/SneezyG/candles) -- A responsive frontend web-app for tracking stock performance.
 A responsive stock dashboard that track market behavior, portfolios performance, and monitor favorite stocks. Featuring real-time tickers, interactive charts, and customizable UI with dark/light mode
 
+### [LangLab](https://github.com/SneezyG/LangLab) -- A feature exploration of Java, C#, and Go
+A hands-on, code-first exploration of enterprise centric programming languages. This project dives into how Java, C#, and Go tackle core software engineering concepts.
+
 ### [Guardians](https://sneezyg.github.io/pinger-page) -- A Crisis Alert & Safety Management System, built with python(Django)
 - Real-Time Alerts --- WebSocket-based instant updates.
 - Multi-Channel Notifications --- Web, Email, SMS.
