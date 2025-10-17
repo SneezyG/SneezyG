@@ -50,7 +50,7 @@ I'm a Software Developer passionate about building scalable, efficient, and secu
 ## 🛠️ Tech Stack
 
 - ### Languages
-  - Python, Java, Go, JavaScript, TypeScript, PHP, C#
+  - Python, Java, Go, JavaScript, C#, TypeScript, PHP
 
 - ### Frameworks & Libraries
   - `Web & Backend` --- Django, Spring Boot, Laravel, Node.js, FastAPI, Gin, .Net
