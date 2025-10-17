@@ -66,7 +66,7 @@ I'm a Software Developer passionate about building scalable, efficient, and secu
 
 - ### Tools & Platforms
   - `Containerization & Virtualization` --- Docker, Docker Compose, Kubernetes, Vagrant
-  - `Cloud & Deployment` --- AWS, Heroku, Netlify, DigitalOcean, GCP
+  - `Cloud & Deployment` --- AWS, Heroku, Azure, DigitalOcean, GCP
   - `Task Queues & Messaging` --- Celery, RabbitMQ, Redis Pub/Sub, Kafka, MQTT
 
 - ### Testing & Debugging
