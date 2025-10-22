@@ -20,14 +20,13 @@ I'm a solutions architect passionate about building scalable, efficient, and sec
 ## 💡 Complementary Skills
 
 - **Cloud-Native Solutions**  
-  Designing resilient, scalable, and secure cloud-native applications leveraging microservices, containers, and automation.
+  Designing scalable and secure cloud-native apps leveraging microservices, containers, and automation.
   
 - **Project Management**  
   Driving projects from conception to delivery with a focus on planning, collaboration, and execution.
 
 - **User Interface (UI) Design**  
-  Creating intuitive and accessible user experiences with a strong focus on usability, layout, and visual design principles.
-  [Explore one of my design](https://bit.ly/3GoXQrP)
+  Creating intuitive and accessible user experiences with a strong focus on usability [Explore one of my design](https://bit.ly/3GoXQrP)
 
 ---
 
