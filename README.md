@@ -1,26 +1,26 @@
 # Hi, I'm Ismail Ahmad 👋
 
-I'm a Software Developer passionate about building scalable, efficient, and secure systems. I have experience across Python, Java, C#, JavaScript, GO, PHP, microservices, and full-stack development. In my free time, I contribute **volunteer software solutions** to help communities and organizations. I enjoy solving real-world problems through technology while giving back to society.
+I'm a solutions architect passionate about building scalable, efficient, and secure business solutions. I have experience across software development, automation, data and artificial intelligence. In my free time, I contribute **volunteer software solutions** to help communities and organizations. I enjoy solving real-world problems through technology while giving back to society.
 
 ---
 
 ## 🎯 Specializations
 
-- **Back-End Engineering**  
-  Developing scalable server-side applications, APIs, and working with databases and cloud infrastructure.
-  
-- **Full-Stack Development**  
-  Developing responsive web applications using modern front-end frameworks, while integrating robust back-end technologies.
+- **Software Development**  
+  Designing and building robust software applications, ensuring code quality, scalability, and seamless integration across platforms.
 
-- **Cloud-Native Solutions**  
-  Designing resilient, scalable, and secure cloud-native applications leveraging microservices, containers, and automation.
+- **Data & AI**  
+  Developing intelligent systems, managing data pipelines, and applying machine learning models to generate actionable insights.
+
+- **Automation**  
+  Creating efficient automated workflows, automating repititive tasks, and optimizing processes to reduce manual effort.
 
 ---
 
 ## 💡 Complementary Skills
 
-- **Artificial Intelligence**  
-  Exploring and integrating machine learning and AI-powered tools to build smarter, data-driven solutions.
+- **Cloud-Native Solutions**  
+  Designing resilient, scalable, and secure cloud-native applications leveraging microservices, containers, and automation.
   
 - **Project Management**  
   Driving projects from conception to delivery with a focus on planning, collaboration, and execution.
@@ -35,45 +35,18 @@ I'm a Software Developer passionate about building scalable, efficient, and secu
 
 | Certification | Issuing Organization |
 |---------------|-----------------------|
+| [Getting Started with Data Analytics on AWS](https://coursera.org/share/236bbff9488afd5ab2b8efe8b59719ac) | AWS, Offered through Coursera |
 | [Service-Oriented Architecture](https://coursera.org/share/4f77aa414d44dcf8c666185b587c2cd2) | ALB, Offered through Coursera |
 | [Application Development using Microservices and Serverless](https://coursera.org/share/0c289c2e336c683b8a6b3bdac2f1c637) | IBM, Offered through Coursera |
 | [Continuous Integration and Continuous Delivery(CI/CD)](https://coursera.org/verify/3PHHNRRQ2ZK5) | IBM, Offered through Coursera |
+| [Data Visualization with Tableau](https://coursera.org/share/2f9f30645f95de4de50fffb0690d8b30) | Tab, Offered through Coursera |
 | [Foundations of Project Management](https://coursera.org/verify/MXAPYE8L64CV) | GGL, Offered through Coursera |
 | [Introduction to Containers w/ Docker, Kubernetes & OpenShift](https://coursera.org/verify/ZVPEFFNUXB6G) | IBM, Offered through Coursera |
 | [Machine Learning with Python](https://coursera.org/share/049f7d412470b928ffe8d9d7abbd6a27) | IBM, Offered through Coursera |
 | [Application Security and Monitoring](https://coursera.org/verify/ZP43JNUN85RF) | IBM, Offered through Coursera |
 | [Introduction to Test Driven Development (TDD)](https://coursera.org/verify/KBK39PDJNDR2) | IBM, Offered through Coursera |
 | [Hands-on Introduction to Linux Commands and Shell Scripting](https://coursera.org/verify/SQUCKN795LHA) | IBM, Offered through Coursera |
-
----
-
-## 🛠️ Tech Stack
-
-- ### Languages
-  - Python, Java, Go, JavaScript, C#, TypeScript, PHP
-
-- ### Frameworks & Libraries
-  - `Web & Backend` --- Django, Spring Boot, Laravel, Node.js, FastAPI, Gin, .Net
-  - `Frontend` --- React, Angular, Svelte, Vite, Tailwindcss
-  - `Serverless & Microservices` --- Serverless Framework, AWS Lambda, Google Cloud Functions
-
-- ### Databases
-  - `Relational` --- PostgreSQL, MySQL, SQLite, MariaDB, Oracle DB  
-  - `NoSQL` --- MongoDB, Redis, Cassandra, DynamoDB, Neo4j, Elasticsearch, Pinecone
-
-- ### APIs
-  - RESTful APIs, GraphQL, gRPC, Webhooks, WebSockets
-
-- ### Tools & Platforms
-  - `Containerization & Virtualization` --- Docker, Docker Compose, Kubernetes, Vagrant
-  - `Cloud & Deployment` --- AWS, Heroku, Azure, DigitalOcean, GCP
-  - `Task Queues & Messaging` --- Celery, RabbitMQ, Redis Pub/Sub, Kafka, MQTT
-
-- ### Testing & Debugging
-  - Unittest, Curl, Postman, TDD, Selenium, Playwright
-
-- ### CI/CD & Monitoring
-  - GitHub Actions, GitLab CI/CD, Prometheus, Grafana, ELK Stack
+| [Excel Basics for Data Analysis](https://coursera.org/share/59bc76896e70a8cc2513a1a85dff99c9) | IBM, Offered through Coursera |
 
 ---
 
