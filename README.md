@@ -7,13 +7,13 @@ I'm a solutions architect passionate about building scalable, efficient, and sec
 ## 🎯 Specializations
 
 - **Software Development**  
-  Designing and building robust software applications, scalability, and seamless integration across platforms.
+  Designing and building robust software applications with scalability and seamless integration across platforms.
 
 - **Data & AI**  
   Developing intelligent systems, building data pipelines, and applying machine learning to deliver insights.
   
 - **Automation**  
-  Creating efficient automated workflows, automating repititive tasks, and optimizing processes to reduce manual effort.
+  Creating efficient workflows, automating repetitive tasks, and optimizing processes to reduce manual effort.
 
 ---
 
@@ -26,7 +26,7 @@ I'm a solutions architect passionate about building scalable, efficient, and sec
   Driving projects from conception to delivery with a focus on planning, collaboration, and execution.
 
 - **User Interface (UI) Design**  
-  Creating intuitive and accessible user experiences with a strong focus on usability [Explore one of my design](https://bit.ly/3GoXQrP)
+  Creating intuitive and accessible user experiences with a strong focus on usability. [Explore one of my design](https://bit.ly/3GoXQrP)
 
 ---
 
