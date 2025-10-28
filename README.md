@@ -11,16 +11,16 @@ I'm a solutions architect passionate about building scalable, efficient, and sec
 
 - **Data & AI**  
   Developing intelligent systems, building data pipelines, and applying machine learning to deliver insights.
-  
-- **Automation**  
-  Creating efficient workflows, automating repetitive tasks, and optimizing processes to reduce manual effort.
+
+- **Cloud-Native Solutions**  
+  Designing scalable and secure cloud-native apps leveraging microservices, containers, and automation.
 
 ---
 
 ## 💡 Complementary Skills
 
-- **Cloud-Native Solutions**  
-  Designing scalable and secure cloud-native apps leveraging microservices, containers, and automation.
+- **Automation**  
+  Creating efficient workflows, automating repetitive tasks, and optimizing processes to reduce manual effort.
   
 - **Project Management**  
   Driving projects from conception to delivery with a focus on planning, collaboration, and execution.
